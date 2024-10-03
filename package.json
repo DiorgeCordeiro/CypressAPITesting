@@ -1,0 +1,12 @@
+{
+  "name": "CypressAPITesting",
+  "version": "1.0.0",
+  "description": "Projeto para testar a funcionalidade do end point \"Token\" utilizando o método POST.",
+  "main": "index.js",
+  "repository": "https://github.com/DiorgeCordeiro/CypressAPITesting.git",
+  "author": "Diorge Cordeiro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
